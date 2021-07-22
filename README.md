@@ -1,0 +1,2 @@
+# assets
+To store anything
